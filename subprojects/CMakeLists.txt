@@ -1,0 +1,2 @@
+set(DILIGENT_NO_FORMAT_VALIDATION on)
+add_subdirectory(DiligentEngine)
